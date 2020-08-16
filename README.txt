@@ -1,1 +1,1 @@
-엔지니어 취업 아마존 네이버
+get job. aws. naver
